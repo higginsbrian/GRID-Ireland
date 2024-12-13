@@ -7,6 +7,6 @@ The master code for the GRID project can be found [here](https://github.com/salg
 
 ## Contents
 We include two folders: 
--  1.documents contains a data description; and 
+-  1.documents contains a data description and slides summarizing the data; and 
 -  2.uploads_for_grid contains the standard GRID data files.   
 
